@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+#why {
+  margin-top: 2rem;
+  font-size: 4vw;
+  color: white;
+}
+
+hr {
+  width: 675px;
+  margin-top: 1rem;
+}
