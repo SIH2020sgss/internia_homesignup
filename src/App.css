@@ -1,0 +1,20 @@
+.body {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  align-items: center;
+  background-color: #02001c;
+  width: 100vw;
+}
+
+.bimg {
+  width: 95vw;
+  height: 30vw;
+  margin-left: 1.5rem;
+  margin-top: 0rem;
+  background-image: url(https://thumbs.dreamstime.com/b/internship-appretenceship-management-trainee-concept-people-79091934.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 1.5em;
+}

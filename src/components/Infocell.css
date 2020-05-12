@@ -1,0 +1,26 @@
+.cell {
+  font-size: 1.4vw;
+  border-radius: 0.5em;
+  width: 50rem;
+  margin: 1.4em;
+  padding: 1em;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-style: normal;
+  font-weight: 300;
+  color: whitesmoke;
+}
+
+.cell:hover {
+  transform: scale(1.05, 1.05);
+  transition: 300ms ease;
+  box-shadow: 0 4px 8px 0 rgba(153, 153, 255),
+    0 6px 20px 0 rgba(0, 0, 243, 0.36);
+}
+
+.cell h3 {
+  color: royalblue;
+}
+
+p {
+  font-size: 1.2vw;
+}
